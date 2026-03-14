@@ -4,7 +4,7 @@ Convert images to Python turtle graphics code that runs in Trinket.
 
 ## Usage
 
-1. Open `turtle_image_converter.html` in a browser
+1. Open `index.html` in a browser
 2. Upload an image (drag & drop or click to browse)
 3. Select quality mode
 4. Click Generate
